@@ -30,6 +30,6 @@ h1{
   color: skyblue;
 }
 
-#basic {
+#font-bold p { 
   font-weight: bold;
 }
